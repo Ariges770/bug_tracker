@@ -1,9 +1,9 @@
 <style>
     h1 {
-        
+      color: grey  
     }
     ul {
-        
+        color: red
     }
 </style>
 # Bug Tracker
